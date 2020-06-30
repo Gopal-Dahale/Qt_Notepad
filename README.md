@@ -29,7 +29,10 @@ The notepad has basic tools needed a create any file. It has a toolbar with the 
   - Undo / Redo
   
 Shortcuts are also present for the above operations.
+
 The WindowTitle shows the name of the current file. If no file is selected it shows Untitled.
+
+**img** folder contains all the application icons used for creating notepad.
 
 ## Issues
 No known issues
@@ -37,15 +40,16 @@ No known issues
 ## Features
 The following two features are added
   - Bold
-    Selected text can be bolded using Ctrl+B
+    Selected text can be made bold/ un-bold using Ctrl+B
   - Font
     Font family and size of selected text can be controlled from the toolbar.
 
+## References
 
-
-
-
-
+- https://www.youtube.com/watch?v=x858_WCtl_Y
+- Application icons are taken from http://icons8.com/
+- https://doc.qt.io/archives/qt-4.8/qtextedit.html#setFontWeight
+- https://doc.qt.io/qt-5/qfontdialog.html
 
 
 
